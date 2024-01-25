@@ -1,0 +1,312 @@
+1
+New Concept of Simultaneity
+(Mathematical Method to Refute Einstein’s Electrodynamics based on Constant Present Time Models as Zero and Point)
+Velimir Abramović, Serbia
+e-mail: velimir0abramovic@gmail.com
+Twin paradox versus Definition of Simultaneity: 1. Introduction, 2. The origin of the Twin paradox, 3. Phi-
+losophycal Considerations, 4. The Twin paradox in the Light of Gauss’s modular or Time Arithmetic, 5. Expla-
+nation of the calculating Method, 6. Personal note, 7. New Concept of Simultaneity, 8. References
+1. Introduction and taking into account Eq. (3), we get
+t + 2t -t = 2t Const., or (10)
+Let me first quote Einstein’s definition of simultaneity in full A A
+and inference its contradictory consequences upon: t -t = 2t - 2t, or finally (11)
+A A
+“…We have not defined a common ''time'' for A and B, for 0∙t = 0∙2t Const., or 0 = 0 Const. (12)
+A
+the latter cannot be defined at all unless we establish by defini-
+tion that the ''time'' required by light to travel from A to B By above simple calculations (Eqs.1-5) and (Eqs.6-12) it is
+equals the ''time'' it requires to travel from B to A. Let a ray of shown that for any clock number or physical time measure given
+light start at the ''A time'' t A from A towards B, let it at the ''B by number, each summa of Einstein’s stationary clock times t A
+time'' t be reflected at B in the direction of A, and arrive and moving clock times t, by itself equals zero, (0). That means
+B
+t and t are not at all related by Eq. (1) or by “t -t “[1]; this fun-
+again at A at the ''A time''t .” A A A
+A
+damentally affects physical interpretation of relativity and grave-
+“In accordance with this definition, the two clocks syn-
+ly undermines the popular name of The Theory. But, seriously,
+chronize if
+what is the relation of t and t ? Is it the number zero, only? By the
+A
+t –t t –t . (1)
+B A A B way, what Einstein has written in Eq. (1) is ontological nonsense
+“We assume that this definition of synchronism is free from analogue to the statement: non-horse equalizes non-book.
+contradictions...” [1]
+Let us analyze deeper!
+The constant present time of human experience where At=Bt 2. The origin of The Twin paradox
+contradicts this definition of simultaneity: “…we establish by
+definition that the time required by light to travel from A to B Einstein’s scheme of applied mathematical method is of
+equals the time it requires to travel from B to A.” [1] where At Gauss’s modular arithmetic, because t is the modulo for con-
+≠Bt. secutive numberst A, t B and t A [2]:
+Thus, Einstein synchronizes clocks by Eq. (1), which he as-
+Stationary clock t t t t 2t (13)
+sumes “is free from contradictions” [1]. From Eq. (1) follows: A A A
+Moving clock t t (14)
+t t t (2)
+B A
+If stationary clock timet equalizes moving clock time t by
+and t t 2t. (3) A
+A A
+number, we have Galileo’s Relativity:
+According to (2) and (3), if substituted into (1), it follows:
+t +t t+t 2t= t 2t+ t + t +t , or (15)
+A A A A A
+t A- t A- t A+ t
+A
+= 2t – t – t , (4)
+t = t or Galileo’s t=t’. (16)
+A
+and further follows
+But, ift does not equalize t by number, it creates the famous
+A
+0∙t = 0∙t or 0 = 0. (5)
+A Einstein’s twin paradox. Before I explain the paradox mecha-
+We may also try the other way because in the light velocity nism, let us look closely into the important matter of interval t
+formula the constant time 2t is given by the expression “t -t “ limits.
+A A
+[1], which does not originate from the Eq. (1), but from the impli- Please, note that Einstein has two time beginnings,t and
+A
+cated system of equations:
+t , for the one and the same start of light ray traveling. The ray
+0
+t B-t A= t, (6) of light starts in the space position A at thet Atime and t 0time
+t A-t B= t. (7) simultaneously becauset 0which begins the traveling interval t
+totally coincides in space witht . How does this work?
+For the whole time interval of light traveling 2t, we have to A
+If we assume the beginning t of the interval t is
+add (6) to (7): 0
+t 0Const., and thatt t t , we clearly see how the t
+t -t +t -t = 2t, (8) 0 0 A A 0
+B A A B
+takes the value of t . Because it is defined “let a ray of light start
+A
+t - t = 2t Const., (9)
+A A at the ''A time''t ...”, the very beginning of the interval t,
+A
+(t 0Const.), simply overlaps t in space, taking its time num- it follows that t –t t 2t, (29)
+0 A A B A
+ber value, as it is obvious in the Eq. (1). In detail, it is:
+for concrete values 8–58–23. (30)
+A: t t t B: t t t (17)
+A 0 A 0
+Since t 00Const., we may take it that t A, t B, t A are physi- And finally t A- t B>t A+t 0. (31)
+cal limits of time interval t. Because there is no negative time for
+for concrete values 8 – 5 > 2 + 0.
+the valuesn0,1,2,3,...,n, andt =0 Const., we have:
+0
+If we assume that t is actuallyt , or the beginning of in-
+A 0
+t ≥ n (18)
+A terval t, so that t = t + t from Eqs. (13-14) it follows for the
+A 0 A
+t ≥ n (19) stationary clocks:
+What I found crucial for the understanding Einstein’s concep- t t t +t , (32)
+A B 0 A
+tion of Simultaneity and his Special relativity theory in general is
+and for the moving clock t 2tt +t , (33)
+the quantitative relation between t and t. Please, keep on mind A 0 A
+A
+that all the endst of t interval are of constant zero value and from which it follows that the time of stationary clock and the
+0
+included in the results. If t and t are at all numbers, we have time of a moving clock are not equalized, because
+A
+only three possibilities to consider. The first case is Galileo’s: t –t t 2t. (34)
+A B A
+1. t At, which is the case equivalent to Galileo’s relativity, It is obvious for the conditiont At, that twin brother on
+wherett. So, according to the scheme, (13-14), and for the the Earth is older than cosmonaut brother, because according
+concrete number values t A= t = n = 2 andt 0= 0 Const., we to Eqs. (26-27),
+have: Earth twin brother’s time t - t = 8 – 5 = 3 , (35)
+A B
+Stationary clock 2 4 6 (20)
+Cosmonaut twin brother’s time t 2t862, (36)
+A
+Moving clock 2 2 (21)
+We see that Earth twin brother’s time, 3, is undisputable
+It follows that
+greater then cosmonaut twin brother’s time, 2, and Einstein
+t –t t –2tt = t (22) seems correct, but according to Eq. (1) there is one more pos-
+A B A A
+sibility in relation of stationary time t and traveling time t,
+6–46–222= 2 (23) A
+and that is t t or, in everyday life, when somebody starts
+A
+From Eqs. (22) and (23) it follows that for the stationary
+traveling at 3 and is traveling 2.
+clocks t –t t +t and for the moving clocks
+A B A 0 To those who object that stationary time t and traveling
+A
+t –2tt t t , times are equalized, because
+A 0 A A time t are not in relation of any kind, because from Eq. (1) are fol-
+t 0Const., so that
+0 lowing Eqs. (4), (5) and also (12), my answer is: In the case we fi-
+t –t t –2tt t t = t or (24) nally accept results (5) and (12), we so reject Special relativity the-
+A B A 0 A A
+ory as a whole, simply because the only relation of t and t are go-
+A
+6 – 4 = 6 – 2 ∙ 2 = 0 + 2 = 2 = 2 (25)
+ing over arithmetical zero which is mathematical object for physical
+It is obvious that for Einstein’s hidden conditiont At, we non-existence. In addition, the twin paradox exists only and only if
+have Galileo`s relativitytt, where the physical systems t and t are related by number.
+A
+which are in motion and those which are not are synchro- The third case concerns Abramovic’s cosmonaut twin
+nized, simply because absolute velocity of light equalizes its brother, who travels at light velocity, and upon return, is old-
+relative velocity by number, (absolute C = C’ relative). If we er than his brother on Earth. This is the condition when Gali-
+compare carefully, we may discover that Einstein’s C=C’ ac- leo`s relativity also doesn’t hold, and becauset t, follows
+A
+tually plays the same role as t=t’ in Galileo’s relativity.
+t > t’:
+The second case refers to Einstein’s twin brother, who tra-
+3. For the conditiont t, according to Eqs. (13-14), and for the
+vels by light velocity, and upon return is younger than his A
+brother on the Earth. Galileo’s relativity doesn’t hold here concrete number values t A3, t2and t 0= 0 ,we have:
+because it is supposed that tt, or using Einstein’s signs it is
+Stationary clock 3 5 7 (37)
+t ≠ t, from which arises two new possibilities, t t, and
+A A
+Moving clock 2 2 (38)
+t t:
+A
+If t 2tt t t Const, (39)
+A A 0 A
+2. t t is the case against Galileo’s relativity, where we con-
+A
+sider tt. So, according to the scheme, Eqs. (13-14), and for it follows that t A- t B< t A- 2t, (40)
+the concrete number values t A2, t3 and t 0= 0, we have: for concrete values 7–57–4. (41)
+Stationary clock 2 5 8 (26) And finally t - t < t +t Const. (42)
+A B A 0
+Moving clock 3 3 (27)
+If, for moving clock t - 2t =t +t , (28)
+A A 0
+3
+If we again assume that t overlapst , so taking over the plete contradiction to human experience where motion and im-
+A 0
+role of the beginning of interval t, according to Eqs. (37-38) it mobility are clearly discerned.
+follows that for the stationary clocks These were main errors Einstein did to time by using modular
+Eq. (1) to non-relate numberst and t, Eqs. (5) and (12), in order to
+t - t < t +t , (43) A
+A B 0 A
+generalize ontologically exclusive number values (tt for both
+and for the moving clock t A- 2t = t 0+t A, (44) t0 and t1), getting that way non-sensible interpretation of
+physical reality: “…from point to point in Space, time is different,
+from which it follows that the time of stationary clock t and
+A
+or, each point in space has its own time” [1]. This Einstein’s belief
+the time of a moving clock t are not equal, because
+directly contradicts to the existence of Physical Reality itself
+t A- t B< t A- 2t. (45) where at least two ends of a length must coexist to sustain Space
+Obviously for the conditiont t, the Earth twin brother or Matter.
+A
+The arithmetical trick procedure of Eq. (1) - already shown in
+is younger than cosmonaut brother, because by Esq. (37-38)
+Eqs. (5) and (12) – could be also analyzed and even better dem-
+Earth twin brother’s time t At B752, (46) onstrated in the light of Gauss’s Modular or Time Arithmetic [2] :
+Cosmonaut twin brother’s time t 2t743, (47) ab mod nt –t t –t ttmod 0 (48)
+A B A A B
+Earth twin brother’s time of number 2 is undisputable less which directly shows that, from the Einstein’s equation
+than the cosmonaut twin brother’s time of number 3. t –t t –t , we at all cannot derive the case of traveling,
+B A A B
+3. Philosophical Considerations
+because from tt follows tt0, or which modulo is calcu-
+lated as ttttmod0.
+For non-Galilean conditiontt, the Twin paradox is also in-
+4. The Twin Paradox in the light of Gauss’s
+consistent with the given definition of simultaneity [1], because it
+Modular or Time Arithmetic
+contains an ontological contradiction.
+From t –t t –t follows the resulttt, and so we get
+B A A B From Eqs. (1-4) are following three possible results:
+two contradictory consequences of dialectical logic type, where 1. t = t, or Gauss’s notation ttttmod0
+yes (t) and no (-t) are of the same physical value and indistinc- 2. t =t , or Gauss’s notation t ≡t t -t mod 0
+A A A A A A
+tively generalized astt:
+3. 0 = 0, or Gauss’s notation 0≡00-0mod 0
+1. Thesis: the light ray is traveling forward from A to B, (t);
+And from there are following possibilities:
+2. Antithesis: the light ray is traveling backward from B to A,
+1. If t = t , or Gauss’s notation t ≡ t t - t mod 0, we
+(-t);
+A A A
+have Galileo’s relativity;
+2. a. Einstein`s hidden logical step, t – t = 0, from where it fol-
+2. If t ≠ t , or Gauss’s notation t ≡ t t - t mod n, we
+lows his Synthesis: A A A
+3. t = t, arithmetical formality independent of physics. have Einstein’s relativity or The twin paradox:
+2. a. If t < t, or Gauss’s notation t ≡ t t - t mod (-n),
+Einstein’s definition of simultaneity is but a crude example of A A A
+misused Hegel’s triad logic. we have the Einstein’s case of the twin paradox when Cosmonaut broth-
+Watch carefully Einstein’s steps in creating physical problem: er upon return is younger than his Earth twin brother, Eqs. (35-36),
+but
+1. t –t t –t .
+B A A B 2. b. If t >t, or Gauss’s notation t ≡ t t - t mod (n), we
+2. tt A A A
+have the Abramovic’s case of the twin paradox when Cosmonaut broth-
+a.  t t t (Light is not traveling, clocks are syn-
+A B A
+er upon return is older than his Earth twin brother, Eqs. (46-47).
+chronous, t0), and
+b.  t t t (Light is traveling, clocks are not syn-
+A B A
+5. Explanation of the calculating method
+chronous, t >0), but in Special relativity theory Einstein
+neglects ontological criterion, so that
+According to Einstein’s Relativity principle [1] the time t of
+3. tt. Anyway. A
+the stationary system we have to measure over time t of the sys-
+Why is a problem? Because of identitytt by which Einstein
+tem in motion, and vice versa, so the calculation is:
+synthesized non-motion and motion of the one and the same for stationary system t Const. = t -t =t -t (49)
+B A A B
+light ray: ift0, there is no traveling and the time consequence
+for system in motion t Const. = t - 2t (50)
+ist =t =t , but, if t >0, there is traveling and the time conse- A A
+A B A
+It is obvious that simple giving different number values to t Con-
+quence is the opposite, t ≠t ≠t . Apparently, Einstein’s Simul-
+A B A stant. and t Const. creates paradox of asynchronicity.
+A
+taneity assumption t=t ontologically identifies motion and im-
+mobility, what further means that such simultaneity definition as 6. Personal note
+t=t is physically impossible. In addition, Einstein’s mathematics
+Going deeper and deeper into labyrinths of Einstein’s soul
+of relativity principle implies zero velocity for any physical object
+which I found much more philosophical and poetic then scien-
+in motion, because absolute velocity v equals relative velocity v’ by
+tific I have finally understood what happened to him: He indeed
+space and time numbers and total velocity is v-v’=0, which is in com-
+has discovered completely correct mathematical models for ever-
+lasting present or as he called it – Simultaneity. Those were ar-
+ithmetical zero corresponding to non-dimensional geometrical
+point. But, inadequate social promotion of his theory has pre-
+vented his further spiritual development and he never become
+fully aware of the true meaning of his own discovery, of time as
+nothing that is.
+7. New Concept of Simultaneity
+In a broader sense, the above zero modulo demonstrates the
+non-locality of the universal present time, and that is the constant
+present time of everyday human experience; it is immeasurable
+now and must be represented by 0 (zero is a number without
+quantity), and geometrically as non-local point (which has no
+parts, no magnitude).
+We should comprehend The Present Time as the fundamental
+natural law which universally governs the change of the World
+of Things (space and masse). This would mean that in physical
+reality there are no time intervals as we imagine them, because in
+the Universe there is not the flow of time – Constant Present is
+the only time of Physical Reality (it is physical eternity).
+Why then we have the impression of the time flow?
+It is because the basic Continuum consists of unequal parts
+which are subject to synchronicity law. The inequality of elec-
+tromagnetic entities (of which consist space and masse) creates
+non-synchronicity or motion which is pure temporal phenome-
+non. The notions of Force and Energy should be substituted in
+Physics by mathematical properties of physical bodies, as it was
+already proposed by H.Hertz, who wandered why light does not
+spare any energy for traveling, or by still unknown temporal
+characteristics of bodies, as it was proposed by N.A. Kozyrev.
+Proof: Dear reader, when you have started to read this ab-
+stract, it was present time and still is. Since ever it was present
+time, it is, and will be forever. Wake up!
+References
+[ 1 ] A. Einstein, “On The Electrodynamics of Moving Bodies”, in The
+Principle of Relativity, p. 40 (Dover Publication, 1952).
+[ 2 ] Carl Friedrich Gauss, Disquisitiones Arithmeticae (Leipzig 1801).
